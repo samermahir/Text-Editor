@@ -2,7 +2,7 @@
 
 ## Description
 
-Text editor application that allows you to create notes and code with ease.
+Text editor application that allows you to create notes. This application can run either in the browser or offline.
 
 ## Screenshot
 
